@@ -69,7 +69,7 @@ export const ContactForm: React.FC = () => {
           Thank you for reaching out!
         </h3>
         <p className="text-neutral-300 text-sm">
-          We've received your message and will get back to you within 24 hours.
+          We&apos;ve received your message and will get back to you within 24 hours.
         </p>
       </div>
     );
@@ -81,7 +81,7 @@ export const ContactForm: React.FC = () => {
         <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4">Get In Touch</h2>
         <p className="text-neutral-300 text-sm sm:text-base">
           Have questions about our programs, partnerships, or how to get involved?
-          We'd love to hear from you.
+          We&apos;d love to hear from you.
         </p>
       </div>
 
